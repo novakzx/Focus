@@ -1,0 +1,22 @@
+# dependências e caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# vercel
+.vercel/
+.vercel-tmp/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# editores
+.vscode/
+.idea/
+
+# logs e build
+*.log
+dist/
+build/
+out/
